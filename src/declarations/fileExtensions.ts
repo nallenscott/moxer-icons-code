@@ -206,6 +206,7 @@ export const fileExtensions = {
 	svg: '_file_svg',
 	eps: '_file_svg',
 	zip: '_file_zip',
+	zig: '_file_zig',
 	rar: '_file_zip',
 	'7z': '_file_zip',
 	tar: '_file_zip',

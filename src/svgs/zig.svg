@@ -1,0 +1,21 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<g transform="matrix(0.0653595,0,0,0.0653595,3,3.42484)">
+		<g>
+			<path d="M46,22L28,44L19,30L46,22Z" fill="#EC915C" />
+			<path d="M46,22L33,33L28,44L22,44L22,95L31,95L20,100L12,117L0,117L0,22L46,22Z" fill="#EC915C" />
+			<path d="M31,95L12,117L4,106L31,95Z" fill="#EC915C" />
+		</g>
+		<g>
+			<path d="M56,22L62,36L37,44L56,22Z" fill="#EC915C" />
+			<path d="M56,22L111,22L111,44L37,44L56,32L56,22Z" fill="#EC915C" />
+			<path d="M116,95L97,117L90,104L116,95Z" fill="#EC915C" />
+			<path d="M116,95L100,104L97,117L42,117L42,95L116,95Z" fill="#EC915C" />
+			<path d="M150,0L52,117L3,140L101,22L150,0Z" fill="#EC915C" />
+		</g>
+		<g>
+			<path d="M141,22L140,40L122,45L141,22Z" fill="#EC915C" />
+			<path d="M153,22L153,117L106,117L120,105L125,95L131,95L131,45L122,45L132,36L141,22L153,22Z" fill="#EC915C" />
+			<path d="M125,95L130,110L106,117L125,95Z" fill="#EC915C" />
+		</g>
+	</g>
+</svg>
